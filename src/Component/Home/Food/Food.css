@@ -1,0 +1,13 @@
+.foodtitle:hover{
+
+    color: #C19855;
+    
+}
+.foodButton{
+
+    border: 1px solid black;
+}
+.foodButton:hover{
+    border: 1px solid #C19855;
+    color: #C19855;
+}
